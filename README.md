@@ -1,6 +1,6 @@
 # Sam Sur
 
-Founder and systems architect building AI platforms across private markets, wealth planning, and enterprise decision systems.
+Sam Sur is a founder and systems architect building AI platforms across private markets, wealth planning, and enterprise decision systems.
 This is my personal GitHub profile, where I share architecture diagrams, system designs, and public technical work related to Taurion, Palatino Wealth, and CodeData.
 
 ## Links
