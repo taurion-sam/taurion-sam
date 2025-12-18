@@ -6,6 +6,7 @@ This is my personal GitHub profile, where I share architecture diagrams, system 
 ## Links
 - Personal site: https://sam-sur.com
 - LinkedIn: https://www.linkedin.com/in/samsur
+- X: https://x.com/sam_sur/
 - Taurion: https://taurion.capital
 - Palatino Wealth: https://www.palatinowealth.com
 - CodeData (company GitHub): https://github.com/codedataio
